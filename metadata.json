@@ -1,0 +1,6 @@
+{
+  "name": "LC Marketing",
+  "description": "Landing page para servicios de marketing digital en Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
